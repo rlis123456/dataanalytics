@@ -12,11 +12,8 @@ Initial Analysis done:
 2. Records unique by city
 
 REQUIREMENTS:
-1. Buid a Dash board to include
+Buid a Dash board to include
 	A. Year 20,19 and 18 Data on enrollment by Grade and SPED Beyond Grade 12
 	B. Card - Total Enrollment in Massachusetts
-	C. Splicer - By School District
-	D. Line graph - Total Enrollment (splicer by school district)
-	E. Top 10 enrollment by school district
-	F. Top 10 Enrollment by Town
+	C. Splicer - By School Districts and year
 	
